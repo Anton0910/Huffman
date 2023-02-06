@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1673115289 source:c:\users\anton\onedrive\Área de trabalho\estudos\ed2\huffman\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1673115245 c:\users\anton\onedrive\Área de trabalho\estudos\ed2\huffman\tad.h
+
